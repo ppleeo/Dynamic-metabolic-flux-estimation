@@ -1,0 +1,15 @@
+Notes about the video
+
+The first line:
+Dynamic extracellular glucose (ec_GLC) concentration and metabolites’ concentration in
+central carbon metabolic pathway of Aspergillus Niger during single (SA) and periodic (PA)
+glucose pulses and Saccharomyces Cerevisiae during periodic (PS) glucose pulses (400
+s).
+The metabolites in gray letters represent unmeasured concentrations.
+The unit of ec_GLC concentration was 30umol/L, and it of other metabolites was umol/L.
+
+The second line:
+Dynamic fluxes in central carbon metabolic pathway of A. niger during single (SA) and
+periodic (PA) glucose pulses and S. cerevisiae during periodic (PS) glucose pulses (400
+s).
+The unit of fluxes was mmol/g/h.
